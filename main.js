@@ -1,4 +1,6 @@
 import './style.css'
+import vite from '/codebuild/output/src262357338/src/node_modules/vite/bin/vite.js';
+
 // import javascriptLogo from './javascript.svg'
 
 
