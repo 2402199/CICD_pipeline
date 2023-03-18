@@ -6,7 +6,7 @@ os: linux
 
 files:
   - source: /
-    destination: /var/www/
+    destination: /usr/share/html
 
 permissions:
   - object: /
