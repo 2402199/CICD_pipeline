@@ -1,13 +1,14 @@
 version: 0.2
 phases:
   pre_build:
+    
     commands:
       #installs dependencies for the code
-      - yarn install
+      - npm install
   build:
     commands:
     # builds a code in a folder called dist
-      - yarn build
+      - npm run build
   post_build:
     commands:
 artifacts:
