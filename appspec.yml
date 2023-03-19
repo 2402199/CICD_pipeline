@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: /
-    destination: /usr/share/nginx/html
+    destination: /usr/share/nginx/html/build
 
 permissions:
   - object: /

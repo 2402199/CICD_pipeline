@@ -1,3 +1,3 @@
 cd /usr/share/nginx/html
-rm -rf index.html
-systemctl restart nginx
+sudo rm -rf index.html
+sudo systemctl restart nginx
