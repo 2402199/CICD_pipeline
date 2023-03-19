@@ -11,6 +11,6 @@ phases:
     commands:
       - yarn build
 artifacts:
-  base-directory: dist
   files:
     - '**/*'
+  
